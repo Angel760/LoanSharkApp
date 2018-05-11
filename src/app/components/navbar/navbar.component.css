@@ -1,0 +1,9 @@
+.img {
+max-width: 100%;
+height: auto;
+}
+.item {
+    right:5px;
+    height: auto;
+    width:60px;
+}

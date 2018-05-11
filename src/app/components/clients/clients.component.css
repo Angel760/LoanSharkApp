@@ -1,0 +1,12 @@
+
+.clientrow{
+color:black;
+}
+.clientrow btn{
+    color:black;
+    }
+.clientrow:visited {
+    color: black;
+}
+.clientrow:hover {
+    text-decoration: none;        }
